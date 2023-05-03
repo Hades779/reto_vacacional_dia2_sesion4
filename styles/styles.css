@@ -1,0 +1,78 @@
+/*
+Colores de mi sitio Web
+primario:#1f0441
+secundario:#fc1068
+terciario:#fcab10
+light:#f9ce07
+info:#0ce3e8
+
+*/
+
+.body1{
+    background-size: cover;
+    background-image: url(https://hackaday.com/wp-content/uploads/2020/06/phonk.jpg?w=800);
+}
+.text-center{
+    text-align: center;
+}
+.bienvenida{
+    color: #fcfcfc;
+    font-family: 'Orbitron', sans-serif;
+}
+.presentado{
+    color: #fc1010;
+}
+.parrafo{
+    color: #48c429;
+    font-family: 'Alkatra', cursive;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+}
+.text-boton{
+    background-color: #fbfff8f1;
+    color: rgb(250, 250, 250);
+    font-size: larger;
+}
+
+
+/*Segundo html*/
+
+
+
+.body2{
+    background-image: url(https://media1.giphy.com/media/M7wCKJYI2Flo4/200.gif);
+    background-size: cover;
+}
+.text-primario{
+    font-family: 'Orbitron', sans-serif;
+    color: #ff0d0d;
+    font-size: xx-large;
+}
+.text-secundario{
+    font-family: 'Orbitron', sans-serif;
+    color: #ff0707;
+    font-size:large;
+}
+.subtitulo{
+    font-family: 'Orbitron', sans-serif;
+    color: #fcf8f9;
+    font-size: x-large;
+}
+.table-center{
+    display: flex;
+    justify-content: center;
+}
+.color{
+    background-color: #21251ac2;
+}
+.escucha{
+    font-family: 'Orbitron', sans-serif;
+    color: #f5f0f2;
+    font-size: large
+}
+.sesion{
+    color:#ffffff;
+    text-decoration: underline;
+}
